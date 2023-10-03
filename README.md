@@ -21,5 +21,5 @@ npm install
 
 ## Deploy
 
-Visit the following link to see the application deployed: 
+Visit the following link to see the application deployed: https://todo-app-ts-desarp.netlify.app/
 
