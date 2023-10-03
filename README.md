@@ -8,6 +8,9 @@
 - [x] Delete all todos
 - [x] Mark all todos as completed
 - [x] Add filter to show all, active and completed todos
+- [x] Show todo count when todo are pending
+- [x] Add form to delete all completed todos
+
 
 
 
